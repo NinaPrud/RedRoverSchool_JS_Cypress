@@ -1,0 +1,51 @@
+{
+    "userAccountMenu": [
+        "My services",
+        "My API keys",
+        "My payments",
+        "My profile",
+        "Logout"
+      ],
+
+      "cityData" : [
+        "country",
+        "temp",
+        "clouds",
+        "humidity",
+        "pressure",
+        "wind direction",
+        "wind speed"
+      ],
+
+      "mainMenu": [
+        "Guide",
+        "API",
+        "Dashboard",
+        "Marketplace",
+        "Pricing",
+        "Maps",
+        "Our Initiatives",
+        "Partners",
+        "Blog",
+        "For Business",
+        "Sign in",
+        "Support"
+      ],
+
+      "supportDropdownMenu": [
+        "FAQ",
+        "How to start",
+        "Ask a question"
+      ],
+
+      "titleOurInitiative": "Our initiatives",
+      "titleEducation": "Education",
+      "learnMoreLink": "Learn more",
+      "urlOur": "https://openweathermap.org/our-initiatives",
+      "urlStudent": "https://openweathermap.org/our-initiatives/student-initiative",
+      "titleStudentInitiative":"Student initiative",
+
+      "searchInputText": {
+      "cityName": "New York"
+      }
+}

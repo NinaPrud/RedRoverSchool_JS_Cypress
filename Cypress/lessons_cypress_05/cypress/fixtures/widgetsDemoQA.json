@@ -1,0 +1,15 @@
+{
+    "selectMenuButton" : "div[class='element-list collapse show'] #item-8",
+    "oldStyleSelectMenu" : "#oldSelectMenu",
+    "colorStyle" : "Purple",
+    "valueStyle" : "4",
+
+    "tabsMenuButton" : "div[class='element-list collapse show'] #item-5",
+    "tabsContainerHeader" : "div.mb-3",
+    "tabsContainerHeaderName" : "Details about Lorem Ipsum",
+    "tabsMenu" : ".nav-tabs a",
+    "tabsMenuLength" : "4",
+    "tabOrigin" : "#demo-tab-origin",
+    "tabsName" : ["What", "Origin", "Use", "More"]
+
+}

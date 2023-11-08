@@ -1,0 +1,61 @@
+Java Script
+1. Intro: About course
+
+   pseudo code: program steps
+   working in:  https://replit.com/
+   output:      document.write(), console.log() 
+   variables:   how to declare, how to use (var, let, const)
+   comments:    why and where to use
+   data types:  numbers, strings, boolean and others
+
+2. Working with Operators and Conditional Statements
+   math operators: +,-,/,*,% (++, --)
+   comparison operators: ==, !=, <, > ,<=, >=
+   logical operators: &&, ||, !
+   String operators, concatenation
+   if statement
+
+3. More about Conditional Statements 
+
+   if statement
+   if else
+   else if 
+   switch (breath explanation) 
+4. Loops
+
+   for
+   for..in
+   for..of
+   while
+
+5. Continue with loops
+
+   do..while
+   break and continue
+   Codewars
+6. Functions
+
+   what is function
+   user-defined function
+   parameters
+   alert, prompt, confirm,
+   return
+ 7. Working with Arrays and Strings
+
+   array methods 
+   String  methods
+   VS code installation
+
+8. Practice with Methods, Functions and Loops
+9. OOP basics
+
+   Object
+   Class
+
+10. Continue with OOP
+
+   Inheritance
+   Encapsulation
+   Modules
+   import
+   export 

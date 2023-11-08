@@ -1,0 +1,18 @@
+{
+    "widgetsQuantity": 9,
+    "userData1": {
+        "login": "push@mailto.plus",
+        "password": "123456789"
+    },
+    "urn": "/widgets-constructor",
+    "pageTitle": "Widgets constructor",
+    "popupWindowTitle": {
+        "validTitle": "Get a code for posting a weather forecast widget on your site.",
+        "invalidTitle": "Important! You need to"
+    },
+
+    "copyInBufferBtn": " Copy in buffer",
+    "apiInputFielValidMessage": "Validation accept",
+    "invalidApi": "785347584375",
+    "errorWidgetPageInvalidApi": "Validation error"
+}

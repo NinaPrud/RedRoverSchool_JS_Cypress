@@ -1,0 +1,18 @@
+{
+    "textBoxButton" :"div[class ='element-list collapse show'] #item-0",
+    "fullNameInput" : "#userName",
+    "fullNamePlaceholder" : "Full Name",
+    "fullNameData" : "Nina",
+
+    "checkBoxButton" : "div[class='element-list collapse show'] #item-1",
+    "checkBoxInput" : "input#tree-node-home",
+    "checkBoxResult" : "div#result",
+    "checkBoxText" : "You have selected :home",
+
+    "radioButtonButton": "div[class='element-list collapse show'] #item-2",
+    "noRadioButton" : "input#noRadio",
+    "yesRadioButton" : "input#yesRadio",
+    "impressiveRadioButton" : "input#impressiveRadio",
+    "textSuccess" : ".text-success",
+    "textSuccessImpressive" : "Impressive"
+}

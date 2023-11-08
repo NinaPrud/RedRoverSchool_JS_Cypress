@@ -1,0 +1,71 @@
+// Home work 1
+// 1.1 Объявите две переменные: firstName и lastName.
+
+let firstName
+let lastName
+
+// 1.2 Запишите строку “John”в переменную firstName и строку “Adams” в
+// переменную lastName.
+
+firstName = 'John'
+lastName = 'Adams <br>' 
+
+// 1.3 Выведите на экран значение firstName и lastName (должно показать
+// John Adams).
+
+document.write(firstName, ' ' ,lastName )
+
+// 1.4 Используйте те же переменные firstName и lastName для того,
+// чтобы вывести новое значение (Anna Karenina).
+
+firstName = 'Anna'
+lastName = 'Karenina'
+
+// В итоге на экране должно быть две строки:
+// John Adams
+// Anna Karenina
+
+document.write(firstName, ' ', lastName)
+
+
+// 1.5 Напишите алгоритм приготовления кофе и выведите его на экран
+
+//Вариант 1
+let coffeeJar = 'jar with instant coffee'
+let coffee = 'instant coffee'
+let kettle = 'kettle with boiling water'
+let water = 'boiling water'
+let spoon = 'spoon'
+let cup = 'cup'
+const cupOffCoffee = 'cup off coffee'
+
+document.write('<br><br> Make a cup off coffee:',
+               '<br><br>1. Take a ',coffeeJar,
+               '<br>2. Take a ', spoon,
+               '<br>3. Take ', coffee, ' ', 'with the ',  spoon,
+               '<br>4. Put the ', coffeeJar,
+               '<br>5. Take a ', cup,
+               '<br>6. Pour ',coffee, ' from the ', spoon,' into the ',cup,
+               '<br>7. Put the ',spoon,
+               '<br>8. Take a ', kettle,
+               '<br>9. Pour ',water, ' into the ', cup,
+               '<br>10. Put the ',kettle,
+               '<br>11. Now the ',cupOffCoffee,' is ready!')
+
+//Вариант 2
+
+document.write('<br><br>Make a cup off coffee:')
+
+let step1 = '<br><br>1. Take a jar with instant coffee;<br>'
+let step2 = '2. Take a spoon;<br>'
+let step3 = '3. Take instant coffee with the spoon;<br>'
+let step4 = '4. Put the jar with instant coffee;<br>'
+let step5 = '5. Take a cup;<br>'
+let step6 = '6. Pour instant coffee from the spoon into the cup;<br>'
+let step7 = '7. Put the spoon;<br>'
+let step8 = '8. Take a kettle with boiling water;<br>'
+let step9 = '9. Pour boiling water into the cup;<br>'
+let step10 = '10. Put the kettle with boiling water;<br>'
+let step11 = '11. Now the cup off coffee is ready!'
+
+document.write(step1,step2,step3,step4,step5,step6,step7,step8,step9,step10,step11)

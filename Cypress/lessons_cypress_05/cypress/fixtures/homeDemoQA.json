@@ -1,0 +1,15 @@
+{
+    "baseUrlDemoQA" : "https://demoqa.com/",
+
+    "headerImage" : "header a img",
+    "allCards" : "div.card",
+    "numberOfCards" : 6,
+
+    "elementsCard" : "div[class='card mt-4 top-card']:first-child",
+    "elementsCardName" : "Elements",
+    "elementsCardUrl": "/elements",
+
+    "cardPageMainHeader" : "div.main-header",
+
+    "widgetsCard": "div.category-cards div:nth-child(4)"
+}
